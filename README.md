@@ -1,7 +1,7 @@
 
 A PWA for viewing IP's information
 
- ---- Features ---
+ ---- Features ----
    - uses composition Api
    - simple and amazing designs
    - a pwa (progressive web app)
@@ -9,6 +9,7 @@ A PWA for viewing IP's information
    - vuejs and tailwind.
    
 ============================================================
+
 
 - Before Search
 
