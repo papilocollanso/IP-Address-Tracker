@@ -1,24 +1,22 @@
-# iptracker
 
-## Project setup
-```
-npm install
-```
+A PWA for viewing IP's information
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+ - Features -
+  - uses composition Api
+  - simple and amazing designs
+  - a pwa (progressive web app)
+  - ability to search and get your Ip's informations
+  - vuejs and tailwind.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Before Search
 
-### Lints and fixes files
-```
-npm run lint
-```
+![Ip1](https://user-images.githubusercontent.com/55124189/134791805-7135cc2c-6125-44df-94c4-36c985bbb25a.jpg)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- After Search
+
+![Ip2](https://user-images.githubusercontent.com/55124189/134791809-84953486-b3c2-4185-b499-d8d843eb1b7e.jpg)
+
+- After Search
+
+![Ip3](https://user-images.githubusercontent.com/55124189/134791815-0916c80e-f78c-4f97-8c9d-fbde282dd941.jpg)
+
