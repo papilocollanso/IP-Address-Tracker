@@ -10,10 +10,14 @@ A PWA for viewing IP's information
    
 ============================================================
 
-
+       
+       Firebase Hosting
    https://ip-tracker-9b39b.web.app/
  
    https://ip-tracker-9b39b.firebaseapp.com/
+   
+       cloudfarepages
+   https://ip-address-tracker.pages.dev
 
 - Before Search
 
